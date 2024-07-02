@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const messages = [
   "Learn React ⚛️",
-  "Apply for jobs 💼",
+  "Apply for test jobs 💼",
   "Invest your new income 🤑",
 ];
 
